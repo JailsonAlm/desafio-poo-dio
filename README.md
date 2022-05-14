@@ -7,4 +7,6 @@
 - IDE para desenvolvimento Java )Intellij)
 - Git
 - Conta no GitHub
-- 
+
+
+Projeto desenvolvido em Java utilizando os conhecimentos de orientação a objetos.
